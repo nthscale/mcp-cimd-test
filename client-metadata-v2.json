@@ -1,0 +1,18 @@
+{
+  "client_id": "https://nthscale.github.io/mcp-cimd-test/client-metadata-v2.json",
+  "client_name": "BB Hunt Client",
+  "client_uri": "https://github.com/nthscale/mcp-cimd-test",
+  "redirect_uris": [
+    "http://127.0.0.1:8765/callback",
+    "https://nthscale.github.io/mcp-cimd-test/cb.html"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
