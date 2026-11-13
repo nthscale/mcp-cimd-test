@@ -1,5 +1,5 @@
 {
-  "client_id": "https://nthscale.github.io/mcp-cimd-test/client-metadata-v2.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/nthscale/mcp-cimd-test@main/client-metadata.json",
   "client_name": "BB Hunt Client",
   "client_uri": "https://github.com/nthscale/mcp-cimd-test",
   "redirect_uris": [
